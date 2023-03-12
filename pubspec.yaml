@@ -1,0 +1,10 @@
+name: mindful_analysis
+version: 1.0.0+1
+description: Lint rules for Dart and Flutter used internally at Mindful Software.
+repository: https://github.com/MindfulSoftwareLLC/mindful_dart_analysis
+issue_tracker: https://github.com/MindfulSoftwareLLC/mindful_dart_analysis/issues
+homepage: https://github.com/MindfulSoftwareLLC/mindful_dart_analysis
+documentation: https://github.com/MindfulSoftwareLLC/mindful_dart_analysis
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
