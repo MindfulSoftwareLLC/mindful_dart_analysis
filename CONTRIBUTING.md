@@ -1,4 +1,4 @@
-# Contributing to Very Good Analysis
+# Contributing to Mindful Analysis
 
 👍🎉 First off, thanks for taking the time to contribute! 🎉👍
 
